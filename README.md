@@ -10,7 +10,11 @@ As in the image above, and other vectors will also be printed saving you having 
 
 This script will show:
 SUID
+
 CRONTAB
+
 NFS
+
 PATH
+
 CAPABILITIES
